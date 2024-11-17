@@ -1,8 +1,17 @@
 {
   "name": "BREAD 👍",
   "symbol": "BRD",
-  "description": "JUST BREAD",
+  "description": "Description of your token",
   "image": "https://raw.githubusercontent.com/djshampz904/tokens_uri/main/optimized_bread.png",
   "external_url": "https://github.com/djshampz904/tokens_uri",
-  "attributes": []
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/djshampz904/tokens_uri/main/optimized_bread.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
