@@ -1,17 +1,18 @@
 {
-  "name": "BREAD 👍",
-  "symbol": "BRD",
-  "description": "Description of your token",
-  "image": "https://raw.githubusercontent.com/djshampz904/tokens_uri/main/bread1.png",
-  "external_url": "https://github.com/djshampz904/tokens_uri",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/djshampz904/tokens_uri/main/bread1.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+    "name": "BREAD 👍",
+    "symbol": "BRD",
+    "description": "Description of your token",
+    "uri": "https://raw.githubusercontent.com/djshampz904/tokens_uri/main/metadata.json",
+    "image": "https://raw.githubusercontent.com/djshampz904/tokens_uri/main/bread1.png",
+    "external_url": "https://github.com/djshampz904/tokens_uri",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/djshampz904/tokens_uri/main/bread1.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
 }
